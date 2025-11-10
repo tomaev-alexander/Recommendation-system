@@ -1,8 +1,9 @@
 # Recommendation-system
-Creating a system that recommends text posts to users using ML and DL.
 
-The file EDA_Model contains preliminary data analysis, data processing, and everything related to model evaluation.
+<span style="color: rgb(0, 0, 255);">This project aimed to build a system for recommending text posts to users, leveraging ML and DL.</span>
 
-The file recommendation_service contains code that creates a recommendation service using FastAPI.
+The file <em>EDA_Model<em> contains preliminary data analysis, data processing, and everything related to model evaluation.
+
+The file <em>recommendation_service<em> contains code that creates a recommendation service using FastAPI.
 
 Files ending with ENG are intended for English-speaking readers.
